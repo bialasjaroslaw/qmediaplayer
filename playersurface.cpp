@@ -1,6 +1,5 @@
 #include "playersurface.h"
 
-#include <QFileInfo>
 #include <QPixmap>
 #include <QVideoSurfaceFormat>
 
@@ -9,8 +8,8 @@
 
 bool PlayerVideoSurface::present(const QVideoFrame& frame)
 {
-    qDebug() << "present";
-    return frame.isValid();
+    qDebug() << "present, frame valid:" << frame.isValid();
+    return true;
 }
 
 bool PlayerVideoSurface::isFormatSupported(const QVideoSurfaceFormat &format) const

@@ -1,0 +1,153 @@
+QML debugging is enabled. Only use this in a safe environment.
+stop
+positionChanged:  0
+mediaStatusChanged:  QMediaPlayer::LoadingMedia
+stateChanged:  QMediaPlayer::PlayingState
+positionChanged:  0
+videoAvailableChanged:  true
+start
+positionChanged:  0
+present, frame valid: true
+mediaStatusChanged:  QMediaPlayer::BufferedMedia
+present, frame valid: true
+positionChanged:  0
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+positionChanged:  831
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+positionChanged:  1898
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+positionChanged:  2897
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+positionChanged:  3907
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+positionChanged:  4916
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true
+present, frame valid: true

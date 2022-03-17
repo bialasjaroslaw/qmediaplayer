@@ -1,0 +1,20 @@
+QML debugging is enabled. Only use this in a safe environment.
+stale focus object QObject(0x0) , doing manual update
+positionChanged:  0
+mediaStatusChanged:  QMediaPlayer::LoadingMedia
+stateChanged:  QMediaPlayer::PlayingState
+positionChanged:  0
+positionChanged:  0
+positionChanged:  0
+positionChanged:  0
+videoAvailableChanged:  true
+mediaStatusChanged:  QMediaPlayer::BufferedMedia
+positionChanged:  0
+positionChanged:  2
+positionChanged:  2
+positionChanged:  459
+positionChanged:  1460
+positionChanged:  2460
+positionChanged:  3461
+positionChanged:  4460
+positionChanged:  5461

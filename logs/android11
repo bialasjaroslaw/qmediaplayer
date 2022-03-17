@@ -1,0 +1,67 @@
+
+I libc    : SetHeapTaggingLevel: tag level set to 0
+I project.exampl: Late-enabling -Xcheck:jni
+I project.exampl: Unquickening 21 vdex files!
+E project.exampl: Unknown bits set in runtime_flags: 0x800000
+D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+I project.exampl: failed to find target package for overlay /system/product/overlay/ProductOverlay-oneplus-framework-res.apk
+I project.exampl: failed to find target package for overlay /system/system_ext/overlay/CommonOverlay-oneplus-framework-res.apk
+I project.exampl: failed to find target package for overlay /odm/overlay/OdmOverlay-oneplus-framework-res.apk
+I Perf    : Connecting to perf service.
+D NetworkSecurityConfig: No Network Security Config specified, using platform default
+D NetworkSecurityConfig: No Network Security Config specified, using platform default
+E Config:Grabber:OnePlusFontConfig: Index 0 requested, with a size of 0
+I project.exampl: failed to find target package for overlay /system/product/overlay/ProductOverlay-oneplus-framework-res.apk
+I project.exampl: failed to find target package for overlay /system/system_ext/overlay/CommonOverlay-oneplus-framework-res.apk
+I project.exampl: failed to find target package for overlay /odm/overlay/OdmOverlay-oneplus-framework-res.apk
+E project.exampl: [frame_perf] perfboost open tb_ctl file failed, isApp[1], errno=No such file or directory
+E libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+I project.exampl: failed to find target package for overlay /system/product/overlay/ProductOverlay-oneplus-framework-res.apk
+I project.exampl: failed to find target package for overlay /system/system_ext/overlay/CommonOverlay-oneplus-framework-res.apk
+I project.exampl: failed to find target package for overlay /odm/overlay/OdmOverlay-oneplus-framework-res.apk
+W System  : ClassLoader referenced unknown path:
+E project.exampl: Invalid ID 0x00000000.
+I chatty  : uid=10698(org.qtproject.example) identical 37 lines
+E project.exampl: Invalid ID 0x00000000.
+E project.exampl: Invalid ID 0x00000000.
+E project.exampl: Invalid ID 0x00000000.
+D Qt JAVA : Class org.qtproject.qt5.android.multimedia.QtMultimediaUtils does not implement setActivity method
+I QtCore  : Start
+I Qt      : qt started
+D ViewRootImpl: support adaptive color gamut feature!
+V ViewRootImpl: The specified message queue synchronization  barrier token has not been posted or has already been removed
+I AdrenoGLES-0: QUALCOMM build                   : 559e78c, Ib9d997268a
+I AdrenoGLES-0: Build Date                       : 10/13/20
+I AdrenoGLES-0: OpenGL ES Shader Compiler Version: EV031.32.02.02
+I AdrenoGLES-0: Local Branch                     : mybrancheb0d76cb-f27a-f1ff-9cdc-1458d0b52ae8
+I AdrenoGLES-0: Remote Branch                    : quic/gfx-adreno.lnx.1.0.r99-rel
+I AdrenoGLES-0: Remote Branch                    : NONE
+I AdrenoGLES-0: Reconstruct Branch               : NOTHING
+I AdrenoGLES-0: Build Config                     : S P 10.0.7 AArch64
+I AdrenoGLES-0: Driver Path                      : /vendor/lib64/egl/libGLESv2_adreno.so
+I AdrenoGLES-0: PFP: 0x016ee190, ME: 0x00000000
+W Qt A11Y : Could not (yet) activate platform accessibility.
+D DecorView: onWindowFocusChangedFromViewRoot hasFocus: true, DecorView@48521d8[QtActivity]
+D ViewRootImpl[QtActivity]: windowFocusChanged hasFocus=true inTouchMode=true
+V MediaHTTPService: MediaHTTPService(android.media.MediaHTTPService@bb7d6ab): Cookies: null
+D libvideoplayer_arm64-v8a.so: mediaStatusChanged:  QMediaPlayer::LoadingMedia
+D libvideoplayer_arm64-v8a.so: stateChanged:  QMediaPlayer::PlayingState
+V MediaHTTPService: makeHTTPConnection: CookieManager created: java.net.CookieManager@3f0b108
+V MediaHTTPService: makeHTTPConnection(android.media.MediaHTTPService@bb7d6ab): cookieHandler: java.net.CookieManager@3f0b108 Cookies: null
+I DpmTcmClient: RegisterTcmMonitor from: $Proxy1
+D libvideoplayer_arm64-v8a.so: videoAvailableChanged:  true
+V MediaHTTPService: MediaHTTPService(android.media.MediaHTTPService@dbdc26): Cookies: null
+V MediaHTTPService: makeHTTPConnection: CookieHandler (java.net.CookieManager@3f0b108) exists.
+V MediaHTTPService: makeHTTPConnection(android.media.MediaHTTPService@dbdc26): cookieHandler: java.net.CookieManager@3f0b108 Cookies: null
+D libvideoplayer_arm64-v8a.so: positionChanged:  0
+D libvideoplayer_arm64-v8a.so: mediaStatusChanged:  QMediaPlayer::BufferedMedia
+W MediaPlayerNative: info/warning (3, 0)
+D libvideoplayer_arm64-v8a.so: start
+D libvideoplayer_arm64-v8a.so: present, frame valid: true
+D libvideoplayer_arm64-v8a.so: positionChanged:  74
+D libvideoplayer_arm64-v8a.so: mediaStatusChanged:  QMediaPlayer::BufferingMedia
+D libvideoplayer_arm64-v8a.so: positionChanged:  1066
+D libvideoplayer_arm64-v8a.so: positionChanged:  2065
+D libvideoplayer_arm64-v8a.so: positionChanged:  3066
+D libvideoplayer_arm64-v8a.so: positionChanged:  4067
+D libvideoplayer_arm64-v8a.so: positionChanged:  5067

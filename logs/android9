@@ -1,0 +1,50 @@
+I project.exampl: Late-enabling -Xcheck:jni
+W System  : ClassLoader referenced unknown path:
+D OpenGLRenderer: Skia GL Pipeline
+D Qt JAVA : Class org.qtproject.qt5.android.multimedia.QtMultimediaUtils does not implement setActivity method
+I QtCore  : Start
+I Qt      : qt started
+I Adreno  : QUALCOMM build                   : 2df12b3, I07da2d9908
+I Adreno  : Build Date                       : 10/04/18
+I Adreno  : OpenGL ES Shader Compiler Version: EV031.25.03.01
+I Adreno  : Local Branch                     :
+I Adreno  : Remote Branch                    :
+I Adreno  : Remote Branch                    :
+I Adreno  : Reconstruct Branch               :
+I Adreno  : Build Config                     : S L 6.0.7 AArch64
+I Adreno  : PFP: 0x005ff087, ME: 0x005ff063
+I ConfigStore: android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0
+I ConfigStore: android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasHDRDisplay retrieved: 0
+I OpenGLRenderer: Initialized EGL, version 1.4
+D OpenGLRenderer: Swap behavior 2
+V MediaHTTPService: MediaHTTPService(android.media.MediaHTTPService@185dbe8): Cookies: null
+D libvideoplayer_arm64-v8a.so: mediaStatusChanged:  QMediaPlayer::LoadingMedia
+D libvideoplayer_arm64-v8a.so: stateChanged:  QMediaPlayer::PlayingState
+V MediaHTTPService: makeHTTPConnection: CookieManager created: java.net.CookieManager@c6f8201
+V MediaHTTPService: makeHTTPConnection(android.media.MediaHTTPService@185dbe8): cookieHandler: java.net.CookieManager@c6f8201 Cookies: null
+D NetworkSecurityConfig: No Network Security Config specified, using platform default
+D libvideoplayer_arm64-v8a.so: positionChanged:  0
+D libvideoplayer_arm64-v8a.so: videoAvailableChanged:  true
+D libvideoplayer_arm64-v8a.so: positionChanged:  0
+D libvideoplayer_arm64-v8a.so: mediaStatusChanged:  QMediaPlayer::BufferingMedia
+D libvideoplayer_arm64-v8a.so: positionChanged:  0
+D libvideoplayer_arm64-v8a.so: positionChanged:  0
+V MediaHTTPService: MediaHTTPService(android.media.MediaHTTPService@ea4eefd): Cookies: null
+V MediaHTTPService: makeHTTPConnection: CookieHandler (java.net.CookieManager@c6f8201) exists.
+V MediaHTTPService: makeHTTPConnection(android.media.MediaHTTPService@ea4eefd): cookieHandler: java.net.CookieManager@c6f8201 Cookies: null
+I Gralloc2: Adding additional valid usage bits: 0x200000
+W MapperHal: buffer descriptor with invalid usage bits 0x2000
+W MapperHal: buffer descriptor with invalid usage bits 0x2000
+W MapperHal: buffer descriptor with invalid usage bits 0x2000
+W MapperHal: buffer descriptor with invalid usage bits 0x2000
+W MapperHal: buffer descriptor with invalid usage bits 0x2000
+W MediaPlayerNative: info/warning (3, 0)
+W MapperHal: buffer descriptor with invalid usage bits 0x2000
+W MapperHal: buffer descriptor with invalid usage bits 0x2000
+D libvideoplayer_arm64-v8a.so: start
+D libvideoplayer_arm64-v8a.so: present, frame valid: true
+D libvideoplayer_arm64-v8a.so: positionChanged:  643
+D libvideoplayer_arm64-v8a.so: positionChanged:  1644
+D libvideoplayer_arm64-v8a.so: positionChanged:  2644
+D libvideoplayer_arm64-v8a.so: positionChanged:  3643
+D libvideoplayer_arm64-v8a.so: positionChanged:  4643
